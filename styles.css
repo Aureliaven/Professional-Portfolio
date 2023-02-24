@@ -2,6 +2,10 @@ body {
     background-color: #666699;
 }
 
+.nav-pills > .active > a, .nav-pills > .active > a:hover {
+    background-color: #5c5cd6;
+}
+
 .lavender {
     background-color: #5c5cd6;
 }
