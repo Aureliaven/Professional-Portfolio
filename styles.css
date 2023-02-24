@@ -2,8 +2,8 @@ body {
     background-color: #666699;
 }
 
-.nav-pills > .active > a, .nav-pills > .active > a:hover {
-    background-color: #5c5cd6;
+.nav-pills>li>a.active, .nav-pills>li>a:hover, .nav-pills>li>a:focus {
+    background-color: #5c5cd6!important;
 }
 
 .lavender {
